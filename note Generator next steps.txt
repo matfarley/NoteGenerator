@@ -1,0 +1,9 @@
+Purpose
+- A random note generator, which will generate a random note to find in all places on the fretboard.
+
+Architecture
+- Have a list full of note names
+- use a random number generator to pull out a number which will be used as an index
+- print the index
+- follow the print with a raw input request to hold up the program
+- put it in an if loop? or a try architecture? 
